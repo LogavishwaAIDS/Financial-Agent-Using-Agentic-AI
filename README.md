@@ -32,7 +32,9 @@ This project demonstrates how multiple AI agents can collaborate to fetch and su
 
 ## 📂 Project Structure  
 ├── finance_agent.py # Main script with agents
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 Install dependencies:
